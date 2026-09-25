@@ -1,0 +1,12 @@
+SKIN LESION SEGMENTATION — EVALUATION METRICS
+==================================================
+Best Threshold  : 0.45
+Accuracy        : 95.03%
+Precision       : 91.08%
+Recall          : 90.79%
+F1 Score        : 90.93%
+Specificity     : 96.64%
+Mean IoU        : 83.74%
+Mean Dice Score : 90.19%
+==================================================
+TP=6477837  FP=634333  FN=657364  TN=18221634

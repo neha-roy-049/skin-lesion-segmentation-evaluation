@@ -1,0 +1,22 @@
+# Python virtual environment
+skin_lesion_env/
+
+# Python cache
+__pycache__/
+*/__pycache__/
+
+# Dataset - large files
+data/images/
+data/masks/
+
+# Python compiled files
+*.pyc
+*.pyo
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
