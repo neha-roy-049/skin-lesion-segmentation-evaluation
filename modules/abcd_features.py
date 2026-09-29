@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from skimage import measure
-
+//Asymmetry
 def compute_asymmetry(mask):
     h, w = mask.shape
     left = mask[:, :w//2]
